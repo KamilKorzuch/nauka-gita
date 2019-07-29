@@ -1,0 +1,13 @@
+.text {
+  padding: 50px 10px 10px 140px;
+  color: #00b894;
+}
+
+.text h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.text p{
+    line-height: 1.7;
+}
